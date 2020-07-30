@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KihyunLim/movie_app_2020.git/static/css/main.515cb887.chunk.css",
+    "main.js": "/KihyunLim/movie_app_2020.git/static/js/main.7d391809.chunk.js",
+    "main.js.map": "/KihyunLim/movie_app_2020.git/static/js/main.7d391809.chunk.js.map",
+    "runtime-main.js": "/KihyunLim/movie_app_2020.git/static/js/runtime-main.d57f1426.js",
+    "runtime-main.js.map": "/KihyunLim/movie_app_2020.git/static/js/runtime-main.d57f1426.js.map",
+    "static/js/2.e2494b61.chunk.js": "/KihyunLim/movie_app_2020.git/static/js/2.e2494b61.chunk.js",
+    "static/js/2.e2494b61.chunk.js.map": "/KihyunLim/movie_app_2020.git/static/js/2.e2494b61.chunk.js.map",
+    "index.html": "/KihyunLim/movie_app_2020.git/index.html",
+    "precache-manifest.07aa97a61ff60ba21c5cfd8e9644b8e6.js": "/KihyunLim/movie_app_2020.git/precache-manifest.07aa97a61ff60ba21c5cfd8e9644b8e6.js",
+    "service-worker.js": "/KihyunLim/movie_app_2020.git/service-worker.js",
+    "static/css/main.515cb887.chunk.css.map": "/KihyunLim/movie_app_2020.git/static/css/main.515cb887.chunk.css.map",
+    "static/js/2.e2494b61.chunk.js.LICENSE.txt": "/KihyunLim/movie_app_2020.git/static/js/2.e2494b61.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d57f1426.js",
+    "static/js/2.e2494b61.chunk.js",
+    "static/css/main.515cb887.chunk.css",
+    "static/js/main.7d391809.chunk.js"
+  ]
+}
